@@ -1,3 +1,6 @@
+Community management system to manage movie DVDs using double hashing technique.
+
+
 ALGORITHM displayTopThreeBorrowedMovies
 //Input: movies [] (Hash table array from MovieCollection)
 //Output: The top three borrowed movie DVDs title and borrow counts is 
